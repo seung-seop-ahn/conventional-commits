@@ -36,4 +36,4 @@ git commit -m '<msg>'
 
 👤 **Kevin Ahn**
 
-- Github: [@maketheworldwise](https://github.com/maketheworldwise)
+- Github: [@seung-seop-ahn](https://github.com/seung-seop-ahn)
